@@ -5,6 +5,6 @@ Many of these came about because of homework that only provided summary statisti
 
 
 ## Dependencies:
-import numpy as np
-
-import scipy.stats as ss
+- import numpy as np
+- import scipy.stats as ss
+- import pandas as pd
